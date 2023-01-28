@@ -1,0 +1,15 @@
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\obj\Debug\net7.0\Notes.Application.csproj.AssemblyReference.cache
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\obj\Debug\net7.0\Notes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\obj\Debug\net7.0\Notes.Application.AssemblyInfoInputs.cache
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\obj\Debug\net7.0\Notes.Application.AssemblyInfo.cs
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\obj\Debug\net7.0\Notes.Application.csproj.CoreCompileInputs.cache
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\bin\Debug\net7.0\Notes.Application.deps.json
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\bin\Debug\net7.0\Notes.Application.dll
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\bin\Debug\net7.0\Notes.Application.pdb
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\bin\Debug\net7.0\Notes.Domain.dll
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\bin\Debug\net7.0\Notes.Domain.pdb
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\obj\Debug\net7.0\Notes.Application.csproj.CopyComplete
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\obj\Debug\net7.0\Notes.Application.dll
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\obj\Debug\net7.0\refint\Notes.Application.dll
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\obj\Debug\net7.0\Notes.Application.pdb
+C:\Users\ahtir\Desktop\WebAPI Notes\Notes.Backend\Notes.Application\obj\Debug\net7.0\ref\Notes.Application.dll
